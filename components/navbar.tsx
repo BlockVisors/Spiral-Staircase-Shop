@@ -17,7 +17,7 @@ const Navbar = async () => {
           </Link>
           <MainNav data={categories} />
           <NavbarActions />
-          <ClerkHeader />
+          {/* <ClerkHeader /> */}
         </div>
       </Container>
     </div>
